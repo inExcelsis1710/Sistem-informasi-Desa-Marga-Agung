@@ -34,7 +34,7 @@ https://git-scm.com/downloads
 <li> Jalankan GitBash dan <i>clone</i> repository GitHub ini</li>
 
 ```bash
-https://github.com/kevinsimorangkir21/SID3B.git
+https://github.com/inExcelsis1710/Sistem-informasi-Desa-Marga-Agung.git
 ```
 
 <li> Open Visual Studio Code / Kode Editor lainnya </li>
