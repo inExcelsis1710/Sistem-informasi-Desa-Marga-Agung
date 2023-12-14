@@ -1,4 +1,4 @@
-<div align="center">
+
 <h1> Sistem Informasi Desa Marga Agung </h1>
 
 ## **Installation Steps**
